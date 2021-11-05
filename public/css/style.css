@@ -1,0 +1,14 @@
+#title{
+	margin-top: 100px;
+	margin-left: 100px;
+	width: 50%;
+	border:  2px solid black;
+	text-align: center;
+}
+#p-form{
+	width: 50%;
+	margin-top: 150px;
+	margin-left: 250px;
+	border: 1px solid black;
+	padding: 0 20px 0 20px;
+}
